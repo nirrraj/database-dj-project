@@ -3,14 +3,16 @@
 Answer the following questions below:
 
 - What is PostgreSQL?
-```PostgreSQL is an open source relational database management system that encompasses the capabilities of SQL and extends it to additional features
+
+PostgreSQL is an open source relational database management system that encompasses the capabilities of SQL and extends it to additional features
 
 - What is the difference between SQL and PostgreSQL?
-```PostgreSQL is open source while SQL is commercial software. Both are used to manage relational databases. PostgreSQL extends SQL's capabilities as well.
+
+PostgreSQL is open source while SQL is commercial software. Both are used to manage relational databases. PostgreSQL extends SQL's capabilities as well.
 
 - In `psql`, how do you connect to a database?
 
-```\c DATABASE_NAME
+```\c DATABASE_NAME```
 
 - What is the difference between `HAVING` and `WHERE`?
 
